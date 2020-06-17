@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mon Dé Afpa</string>
+    <string name="app_title">Le Dé Numérique</string>
+    <string name="faces">Faces</string>
+    <string name="faces_number">6</string>
+    <string name="logo_description">Logo AFPA</string>
+    <string name="throw_dice">Lancer</string>
+    <string name="dice_info">Pour un dé à %s faces</string>
+</resources>
